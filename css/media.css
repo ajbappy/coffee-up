@@ -1,0 +1,410 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*header*/
+	.header-top{
+	
+	margin:70px 0 60px 0;
+}
+.coffee h1{
+	margin-bottom: 30px;
+	font-size: 80px;
+	
+}
+	.coffee h2{
+	font-size: 23px;
+	word-spacing: 0px;
+}
+.logo {
+	margin-top: 10px;
+}
+.common-button{
+	margin-bottom: 60px;
+	width: 60%;
+	
+}
+/*dark coffee*//*dark coffee*//*dark coffee*/
+.dark-coffee{
+	min-height: 400px;
+	text-align: center;
+	}
+
+.dark-coffee h1{
+	margin:0 0 40px 0;
+	font-size: 77px;
+	color: white;
+	
+}
+.dark-coffee p{
+	margin:70px 0;
+	text-align: center;
+	
+}
+.dark-coffee button{
+	margin-bottom: 0;
+}
+/*cold coffee*/
+.cold-coffee{
+	min-height: 400px;
+	text-align: center;
+
+}
+.cold-coffee h1{
+	margin:-770px 0 40px 0;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	
+}
+.cold-coffee button{
+margin-left: 0;
+margin-bottom: 0;
+}
+.cold-coffee p{
+	margin-top: 390px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+/*gift voucher*/
+.gift-text h2{
+	text-align: center;
+	font-size: 70px;
+}
+.gift-text h3{
+	margin: 20px 0;
+	font-size: 30px;
+	width:100%;
+	
+}
+/*customar rev*/
+.reviews p{
+	margin: 40px 0 70px;
+
+    }
+     /*we are start*/
+ .time{
+	margin-bottom: 50px;
+	padding: 30px;
+	
+}
+.we-h1{
+	margin: 50px 0 50px;
+	
+	font-size: 40px;
+	}
+.time{
+
+	padding: 20px;
+}
+.time h2{
+	margin: 30px 0;
+	font-size: 20px;
+	
+}
+
+footer{
+	margin-top: 20px;
+}
+    }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header*/
+	.header-top{
+	
+	margin:70px 0 60px 0;
+}
+.coffee h1{
+	margin-bottom: 30px;
+	font-size: 80px;
+	
+}
+	.coffee h2{
+	font-size: 23px;
+	word-spacing: 0px;
+}
+.logo {
+	margin-top: 10px;
+}
+.common-button{
+	margin-bottom: 60px;
+	width: 60%;
+	
+}
+/*dark coffee*//*dark coffee*//*dark coffee*/
+.dark-coffee{
+	min-height: 400px;
+	text-align: center;
+	}
+
+.dark-coffee h1{
+	margin:20px 0 40px 0;
+	font-size: 77px;
+	color: white;
+	
+}
+.dark-coffee p{
+	margin: 235px 0;
+	text-align: center;
+	
+}
+.dark-coffee button{
+	margin-bottom: 0;
+}
+/*cold coffee*/
+.cold-coffee{
+	min-height: 400px;
+	text-align: center;
+
+}
+.cold-coffee h1{
+	margin:-650px 0 40px 0;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	
+}
+.cold-coffee button{
+margin-left: 0;
+margin-bottom: 0;
+}
+.cold-coffee p{
+	margin-top: 390px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+/*gift voucher*/
+.gift-text h2{
+	text-align: center;
+	font-size: 70px;
+}
+.gift-text h3{
+	margin: 20px 0;
+	font-size: 30px;
+	width:100%;
+	
+}
+/*customar rev*/
+.reviews p{
+	margin: 40px 0 70px;
+
+    }
+     /*we are start*/
+ .time{
+	margin-bottom: 50px;
+	padding: 30px;
+	
+}
+.we-h1{
+	margin: 50px 0 50px;
+	
+	font-size: 40px;
+	}
+.time{
+
+	padding: 20px;
+}
+.time h2{
+	margin: 30px 0;
+	font-size: 20px;
+	
+}
+/*branch*/
+
+
+footer{
+	margin-top: 20px;
+}
+
+    }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	/*header*/
+	.header-top{
+	
+	margin:70px 0 60px 0;
+}
+.coffee h1{
+	margin-bottom: 30px;
+	font-size: 80px;
+	
+}
+	.coffee h2{
+	font-size: 23px;
+	word-spacing: 0px;
+}
+.logo {
+	margin-top: 10px;
+}
+.common-button{
+	margin-bottom: 60px;
+	width: 60%;
+	
+}
+/*dark coffee*//*dark coffee*//*dark coffee*/
+.dark-coffee{
+	min-height: 400px;
+	text-align: center;
+	}
+
+.dark-coffee h1{
+	margin:140px 0 40px 0;
+	font-size: 77px;
+	color: white;
+	
+}
+.dark-coffee p{
+	margin: 180px 0;
+	text-align: center;
+	
+}
+.dark-coffee button{
+	margin-bottom: 0;
+}
+/*cold coffee*/
+.cold-coffee{
+	min-height: 400px;
+	text-align: center;
+
+}
+.cold-coffee h1{
+	margin:-570px 0 40px 0;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	
+}
+.cold-coffee button{
+margin-left: 0;
+margin-bottom: 0;
+}
+.cold-coffee p{
+	margin-top: 390px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+/*gift voucher*/
+.gift-text h2{
+	text-align: center;
+	font-size: 70px;
+}
+.gift-text h3{
+	margin: 20px 0;
+	font-size: 30px;
+	margin-left: 120px;
+    width: 60%;
+}
+	
+}
+/*customar rev*/
+.reviews p{
+	margin: 40px 0 70px;
+
+    }
+     /*we are start*/
+ .time{
+	margin-bottom: 50px;
+	padding: 30px;
+	
+}
+.we-h1{
+	margin: 50px 0 50px;
+	
+	font-size: 40px;
+	}
+.time{
+
+	padding: 20px;
+}
+.time h2{
+	margin: 40px 0;
+	font-size: 20px;
+	
+}
+.new-york h2{
+	width: 95%;
+}
+
+
+footer{
+	margin-top: 30px;
+}
+
+
+.f-top {
+    margin: 30px 0;
+}
+   }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	.header-top{
+	margin:100px 0 80px 0;
+}
+	.coffee h2{
+	font-size: 23px;
+	word-spacing: 0px;
+}
+.logo {
+	margin-top: 10px;
+}
+.common-button{
+	margin-bottom: 120px;
+	width: 45%;
+	
+}
+/*dark-coffe*/
+.dark-coffee p{
+	margin: 220px 0 !important;
+	
+}
+.cold-coffee p{
+	margin: 240px 0;
+
+
+/*gift  vocher start*/
+.gift-voucher{
+
+	min-height: 500px;
+	
+}
+
+.free{
+	margin:220px 0 0 110px;
+	font-size: 90px;
+	
+    }
+   .f-icon i {
+   
+    margin-right: 10px;
+}
+
+
+
+    }
+
+ /* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+		/*header*/
+		.coffee h2{
+	font-size: 28px;
+	word-spacing: 0px;
+}
+.common-button{
+	width: 45%;
+	
+}
+/*dark coffee*/
+.dark-coffee p {
+    margin: 260px 0 !important;
+
+}
+.cold-coffee button {
+    margin-left: 280px;
+}
+
+   }
+
+ /*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+   }
